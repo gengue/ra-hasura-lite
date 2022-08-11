@@ -1,17 +1,18 @@
 {
-  "name": "@gjuchault/typescript-library-starter",
+  "name": "ra-hasura-lite",
   "version": "0.0.0-development",
-  "description": "Yet another typescript library starter template",
+  "description": "Lightweight hasura dataProvider for react-admin",
   "keywords": [
-    "typescript",
+    "react-admin",
     "library",
-    "starter",
-    "template"
+    "typescript",
+    "dataProvider",
+    "hasura"
   ],
   "homepage": "https://github.com/gjuchault/typescript-library-starter",
   "bugs": "https://github.com/gjuchault/typescript-library-starter/issues",
-  "author": "Gabriel Juchault <gabriel.juchault@gmail.com>",
-  "repository": "gjuchault/typescript-library-starter",
+  "author": "Genesis Guerrero <genesisdaft@gmail.com>",
+  "repository": "gengue/ra-hasura-lite",
   "main": "./build/cjs/index.js",
   "module": "./build/esm/index.js",
   "types": "./build/src/index.d.ts",
