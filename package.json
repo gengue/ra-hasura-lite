@@ -7,7 +7,9 @@
     "library",
     "typescript",
     "dataProvider",
-    "hasura"
+    "hasura",
+    "graphql",
+    "codegen"
   ],
   "homepage": "https://github.com/gjuchault/typescript-library-starter",
   "bugs": "https://github.com/gjuchault/typescript-library-starter/issues",
