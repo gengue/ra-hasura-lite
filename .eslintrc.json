@@ -40,6 +40,7 @@
     ],
     "import/no-extraneous-dependencies": "error",
     "import/no-mutable-exports": "error",
+    "@typescript-eslint/no-unsafe-assignment": "off",
     "import/no-unused-modules": "error"
   }
 }
